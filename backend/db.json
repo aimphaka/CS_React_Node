@@ -1,0 +1,29 @@
+{
+    "queues": [
+        {
+            "id": "1",
+            "name": "Supakorn"
+        },
+        {
+            "id": "2",
+            "name": "Pray Fah"
+        }
+    ],
+    "counters": [
+        {
+            "id": 1,
+            "name": "counter1",
+            "current_q": null
+        },
+        {
+            "id": 2,
+            "name": "counter2",
+            "current_q": null
+        },
+        {
+            "id": 3,
+            "name": "counter3",
+            "current_q": null
+        }
+    ]
+}
